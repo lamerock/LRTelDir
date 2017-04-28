@@ -1,0 +1,13 @@
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\bin\Debug\LRTelDir.exe
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\bin\Debug\LRTelDir.pdb
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\LRTelDir.mainFrm.resources
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\LRTelDir.Properties.Resources.resources
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\LRTelDir.csproj.GenerateResource.Cache
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\LRTelDir.exe
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\obj\Debug\LRTelDir.pdb
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\bin\Debug\dbTelDir.accdb
+C:\Users\LameRock\Documents\Visual Studio 2008\Projects\LRTelDir\LRTelDir\bin\Debug\LRTelDir.exe.config
+D:\usb\LRTelDir\LRTelDir\bin\Debug\LRTelDir.exe.config
+D:\usb\LRTelDir\LRTelDir\obj\Debug\LRTelDir.exe
+D:\usb\LRTelDir\LRTelDir\obj\Debug\LRTelDir.pdb
