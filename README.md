@@ -1,10 +1,6 @@
 # LRTelDir
 Simple Telephone Directory using C# and MS Access
 
-Visual C#
- 
-MS Access
-
 ## Author's note:
 
 You can download the source code here:
@@ -15,5 +11,9 @@ To open, just run the Visual Studio IDE then go to
 **File >> Open Project**.
 on the Dialog box, find and choose,
 **LRTelDir.sln**
+
+## Troubleshoot
+
+If Visual Studio cannot detect the database during debugging or running of the program, you might need to download the Microsoft Access Database Engine. You may download it on official Microsoft website: []Microsoft Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=13255)
 
 
