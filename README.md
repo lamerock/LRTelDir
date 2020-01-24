@@ -16,4 +16,4 @@ on the Dialog box, find and choose,
 
 ## Troubleshoot
 
-If Visual Studio cannot detect the database during debugging or running of the program, you might need to download the Microsoft Access Database Engine. You may download it on official Microsoft website: []Microsoft Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=13255)
+If Visual Studio cannot detect the database during debugging or running of the program, you might need to download the Microsoft Access Database Engine. You may download it on official Microsoft website: [Microsoft Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=13255)
